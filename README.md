@@ -1,6 +1,6 @@
 ## Messi VS Ronaldo: A Comparative Analysis
 
-<img src="Images/Cover_Image.jpg" alt="alt text" width="50%" height="50%">
+                  <img src="Images/Cover_Image.jpg" alt="alt text" width="70%" height="60%">
 
 
 Between the years 2010 and 2018, the football world was treated to an incredible rivalry between two of the greatest players in the sport's history: Lionel Messi and Cristiano Ronaldo. This period saw both players deliver remarkable performances in both the UEFA Champions League and La Liga.
